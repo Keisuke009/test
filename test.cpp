@@ -11,3 +11,7 @@ int main()
 void test(){
 
 }
+
+void test2(){
+
+}
